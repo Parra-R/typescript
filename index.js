@@ -32,3 +32,20 @@ var user2 = {
 };
 console.log(user1);
 console.log(user2);
+var respuesta = {
+    name: "Mercedes Tyler",
+    emails: "mercedes_tyler@fakegmail.com",
+    movie_id: {
+        $soid: "573a1390f29313caabcd4323"
+    },
+    text: "Eius veritatis vero facilis quaerat fuga temporibus. Praesentium expedita sequi repellat id. Corporis minima enim ex. Provident fugit nisi dignissimos nulla nam ipsum aliquam.",
+    codes: {
+        number: 123,
+        string: "abc",
+        boolean: true
+    },
+    date: {
+        $date: "2002-08-18T04:56:07Z"
+    }
+};
+console.log(respuesta);
