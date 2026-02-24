@@ -48,25 +48,25 @@ console.log(batman)
 interface profileUser {
     username:string,
     email:string,
-    edad:number,
+    age:number,
 
-    biografia?:string,
-    telefono?:number
+    biography?:string,
+    telephone?:number
 }
 
 const user1: profileUser = {
     username : "Daniel",
     email : "algo@gmail.com",
-    edad : 24,
+    age : 24,
 
-    biografia : "Holaquetal",
-    telefono : 635347236
+    biography : "Holaquetal",
+    telephone : 635347236
 }
 
 const user2: profileUser = {
     username : "Jose",
     email : "algo@gmail.com",
-    edad : 23
+    age : 23
 }
 
 console.log(user1)

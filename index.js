@@ -21,14 +21,14 @@ console.log(batman);
 var user1 = {
     username: "Daniel",
     email: "algo@gmail.com",
-    edad: 24,
-    biografia: "Holaquetal",
-    telefono: 635347236
+    age: 24,
+    biography: "Holaquetal",
+    telephone: 635347236
 };
 var user2 = {
     username: "Jose",
     email: "algo@gmail.com",
-    edad: 23
+    age: 23
 };
 console.log(user1);
 console.log(user2);
