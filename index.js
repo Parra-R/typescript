@@ -7,9 +7,6 @@ var saludar = function (saludo) {
 };
 saludar("Alice");
 var newUser = { id: 1, nombre: "Daniel", email: "hdhhs@gmail.com", premium: true }; // Usuario
-/***/
-var name = "Daniel";
-var age = 24;
 var newCharacter = {
     name: "Jose",
     age: 23
@@ -21,3 +18,17 @@ var batman = {
     artesMarciales: ["Jiu Jitsu", "Samboo", "Wing Chun", "Aikido", "Karate"]
 };
 console.log(batman);
+var user1 = {
+    username: "Daniel",
+    email: "algo@gmail.com",
+    edad: 24,
+    biografia: "Holaquetal",
+    telefono: 635347236
+};
+var user2 = {
+    username: "Jose",
+    email: "algo@gmail.com",
+    edad: 23
+};
+console.log(user1);
+console.log(user2);
