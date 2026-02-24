@@ -15,3 +15,9 @@ var newCharacter = {
     age: 23
 };
 console.log(newCharacter);
+/***/
+var batman = {
+    name: "Bruce Wayne",
+    artesMarciales: ["Jiu Jitsu", "Samboo", "Wing Chun", "Aikido", "Karate"]
+};
+console.log(batman);

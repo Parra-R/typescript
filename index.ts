@@ -36,3 +36,12 @@ const newCharacter:character = { // Asigna valores al objeto
 }
 
 console.log(newCharacter)
+
+/***/
+
+const batman: {name:string,artesMarciales:string[]} = {
+    name: "Bruce Wayne",
+    artesMarciales :["Jiu Jitsu", "Samboo", "Wing Chun", "Aikido", "Karate"]
+}
+
+console.log(batman)
