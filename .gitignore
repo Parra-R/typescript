@@ -1,0 +1,12 @@
+.env
+*package-lock.json
+*.yarn.lock
+*node_modules/
+*.log
+dist/
+build/
+.DS_Store
+.idea/
+.vscode/
+coverage/
+*.bak
